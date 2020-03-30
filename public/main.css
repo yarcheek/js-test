@@ -1,0 +1,4 @@
+#chatRoot { width: 560px; margin: 0 auto; margin-top: 50px; padding: 30px;  }
+#chatContent { padding-top: 30px; }
+h2 { text-align: center; margin-bottom: 1em; }
+#messageInput { width: 400px; }
